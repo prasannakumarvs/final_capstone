@@ -2,8 +2,8 @@
 
 # Define variables
 DOCKER_IMAGE="capstone_proj"
-DEV_REPO="capstone/dev"
-PROD_REPO="capstone/prod"
+DEV_REPO="prasannakumarvs/dev"
+PROD_REPO="prasannakumarvs/prod"
 DEV_TAG="dev"
 PROD_TAG="prod"
 
